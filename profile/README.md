@@ -4,7 +4,7 @@
 </p>
 
 ## 🎯 Mission
-This organization serves as a centralized hub for all my open source contributions, forks, and improvements to various FOSS projects. My goal is to give back to the community while maintaining transparency and encouraging collaboration.
+This organization serves as a centralized hub for all my open source contributions, forks, and improvements to various OSS projects. My goal is to give back to the community while maintaining transparency and encouraging collaboration.
 
 ## 🔍 What You'll Find Here
 - **Project Forks**: Maintained versions of upstream repositories with specific improvements or fixes
