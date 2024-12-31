@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">🌟 caseybarajas33-oss</h1>
+  <h1 align="center">🌟 caseybarajas-oss</h1>
   <p align="center">A collection of open source contributions and forks maintained by Casey Barajas</p>
 </p>
 
